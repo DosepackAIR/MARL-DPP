@@ -1,4 +1,4 @@
-# Deep-Navigation
+# Multi Agent Reinforcement Learning for Dense Path Planning
 
 This project was built to conduct research on Navigation among multiple cars (agents) on a 3x3 square grid using 
 Reinforcement Learning. Two RL approaches were used to solve this problem namely Q-learning and Noisy Double DQN.
