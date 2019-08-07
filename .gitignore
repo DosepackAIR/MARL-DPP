@@ -1,0 +1,10 @@
+simulator_classes.pyc
+simulator_variables.pyc
+environment_creater_3d.pyc
+*.pyc
+.idea/
+__pycache__/
+app_logs/
+models/
+logging_module/__pycache__/
+*.log*
