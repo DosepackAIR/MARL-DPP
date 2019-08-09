@@ -1,10 +1,10 @@
-# Deep-Navigation
+# Multi Agent Reinforcement Learning for Dense Path Planning
 
-This project was built to conduct research on Navigation among multiple cars (agents) on a 3x3 square grid using 
+This project was built to conduct research on Navigation among multiple cars (agents) on a NxN square grid using 
 Reinforcement Learning.
 
-The environment is a block which is a 3x3 grid. Numbering for the boxes in the block are from 1 to 9 from top to bottom.
-Visually it comes out to be
+The environment is a block which is a NxN grid. Numbering for the boxes is done in top down fashion. For example, in a 3x3
+environment, visually, the numbering for the boxes would be
                                 
                                 1 4 7
                                 2 5 8
