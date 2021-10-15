@@ -11,7 +11,7 @@ has been further divided into two 3x3 blocks (the 3rd column is common for both 
 
 ### Prerequisites
 
-In your Python-3 virtual-environment run the following command
+In your Python-3.6 virtual-environment run the following command
 
 ```
 pip install -r requirements.txt
